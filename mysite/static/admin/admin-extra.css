@@ -1,0 +1,9 @@
+.fullwidth {
+  width: 40vw !important;
+  height: 100px !important;
+}
+
+canvas {
+  width: 40vw;
+  height: 40vh !important;
+}

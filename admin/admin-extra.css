@@ -1,0 +1,8 @@
+.fullwidth {
+  width: 40vw !important;
+  height: 20vh;
+  border: 1px solid red;
+}
+body {
+  color: red !important;
+}
